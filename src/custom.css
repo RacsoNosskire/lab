@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(243, 243, 243);
+}
+
+.box {
+  /* border: solid 1px; */
+  padding: 30px;
+  background-color: white;
+  box-shadow: 5px 6px 6px 1px #6c757d;
+}
+
+.container {
+  max-width: 500px;
+}
+
+.btn-lg {
+  --bs-btn-padding-y: 0.5rem;
+  --bs-btn-padding-x: 1rem;
+  --bs-btn-font-size: 1.25rem;
+  --bs-btn-border-radius: 0.5rem;
+}
